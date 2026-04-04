@@ -1,4 +1,4 @@
-# 🍍 Blox Fruits Damage Calculator & Efficiency Tool                                      
+# 🍍 Blox Fruits Damage Calculator & Efficiency Tool                                       
 
 ![Preview](https://tr.rbxcdn.com/180DAY-9562aea76052b8e6690596750b666b26/768/432/Image/Webp/noFilter)  
 
