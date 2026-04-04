@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "theme": "dark",
+        "auto_update": true,
+        "damage_calc_mode": "advanced"
+    },
+    "hotkeys": {
+        "calculate_damage": "F1",
+        "show_timer": "F2"
+    }
+}
